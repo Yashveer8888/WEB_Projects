@@ -1,0 +1,141 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: black;
+    color: white;
+    margin: 0;
+    padding: 0;
+  }
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    font-size: 1rem;
+  }
+  .navbar div{
+    margin: 0rem 8rem;
+  }
+  .navbar ul {
+    list-style-type: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+  }
+  .navbar li {
+    text-decoration: none;
+    margin-right: 2rem;
+  }
+  .navbar a {
+    color: white;
+  }
+  .language-subscribe button {
+    color: white;
+    border: none;
+    padding: 10px;
+    margin-left: 10px;
+    cursor: pointer;
+  }
+  .banner {
+    background-image: url(mirzapur.jpg);
+    background-repeat: no-repeat;
+    background-position-x: right;
+    background-size: 60%;
+    padding: 2rem 15rem 15rem 4rem;
+    height: 24em;
+  }
+  .welcome-text {
+    margin: 2rem 0rem 0rem 2rem;
+  }
+  .welcome-text h1 {
+    font-size: 2.5em;
+    margin: 0;
+  }
+  .welcome-text p {
+    font-size: 1.2em;
+  }
+  .signin-button{
+    background-color: #28b9e9;
+    color: white;
+    border: 2px solid #2abeef;
+    border-radius: 10px;
+    padding: 1rem 5rem;
+    margin: 5rem 0rem;
+    cursor: pointer;
+    font-size: 1em;
+    width: 20rem;
+  }
+
+
+
+  .banner2{
+    background-image: url(download.jpg);
+    background-repeat: no-repeat;
+    background-position-x: right;
+    height: 40rem;
+    margin: 2rem 0rem 0rem 0rem;
+  }
+  .welcome-text2 {
+    margin: 3rem 0rem 0rem 5rem;
+  }
+  .welcome-text2 h1 {
+    font-size: 2.5em;
+  }
+  .welcome-text2 p {
+    font-size: 1.2em;
+  }
+  .rent-now{
+    background-color: #28b9e9;
+    color: white;
+    border: 2px solid #2abeef;
+    border-radius: 10px;
+    padding: 1rem 5rem;
+    margin: 5rem 0rem;
+    cursor: pointer;
+    font-size: 1em;
+    width: 20rem;
+  }
+
+  .banner3{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    background-color: white;
+    color: black;
+  }
+  .welcome-text3 {
+    margin: 3rem 0rem 0rem 5rem;
+  }
+  .welcome-text3 h1 {
+    font-size: 2.5em;
+  }
+  .welcome-text3 p {
+    font-size: 1.2em;
+  }
+  .imgcont{
+    width: 100%;
+    margin: 2rem 5rem 2rem 0rem;
+  }
+  .img8{
+    height: 9rem;
+    margin: 4px;
+    float: right;
+  }
+
+
+  footer{
+    text-align: center;
+    height: 8rem;
+  }
+  .logo{
+    height: 2.5rem;
+    margin: 1rem;
+  }
+  a{
+    margin: 2rem 1rem;
+    background-color: black;
+    color: rgb(102, 102, 249);
+  }
+  .cr{
+    margin: 1rem 0rem;
+  }
